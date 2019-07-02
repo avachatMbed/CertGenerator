@@ -1,5 +1,12 @@
-# private key file
+# private key file and certificates
 *.key
+*.crt
+
+# temp dir used for scratchpad files
+tmp/*
+self/tmp/*
+device/tmp/*
+erver/tmp/*
 
 # Compiled class file
 *.class
