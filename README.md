@@ -4,8 +4,9 @@
 -----------------
 Required set up
 -----------------
-The three directories needed for self, server, device should exist
-They should contain the config needed for creating the CSR and the certificate
+The three directories needed for `self`, `server`, `device` should exist.
+They should contain the config needed for creating the CSR and the certificate.
+**NOTE** The above will automatically exist if you clone this repo.
 
 
 -----------------
