@@ -35,6 +35,14 @@ Createing root certificate for self signing autority
 ./createSelfCrt.sh
 ```
 
+Creating keys and certificates for multiple devices
+```
+./createMultipleDeviceCerts.sh <num-devices>
+#
+# This will create a devices/tmp dir and within it subdirs for every device
+# such as device/tmp/1 and each subdir will contain the device key and certificate
+```
+
 -----------------
 NOTE
 -----------------
