@@ -1,6 +1,7 @@
 # private key file and certificates
 *.key
 *.crt
+*.srl
 
 # temp dir used for scratchpad files
 tmp/*

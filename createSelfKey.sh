@@ -3,7 +3,7 @@
 
 if [ $# -ne 0 ]
 then
-   echo "Usage:: $0 <use env.sh to set the parameters"
+   echo "Usage:: $0 <use env.sh to set the parameters>"
    exit 1
 fi
 

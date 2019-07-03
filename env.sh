@@ -23,6 +23,7 @@ SERVER_CONF="server.conf"
 # For creating device keys and certs
 DEVICE_DIR="device"
 DEVICE_KEY="device.key"
+DEVICE_DER="device.der"
 DEVICE_CSR="device.csr"
 DEVICE_CRT="device.crt"
 DEVICE_CONF="device.conf"
