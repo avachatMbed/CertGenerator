@@ -25,7 +25,7 @@ fi
 KEY_FILE=$SELF_DIR/$SELF_KEY
 if [ -f $KEY_FILE ]
 then
-    echo "Key file $KEY_FILE does not exist"
+    echo "Key file $KEY_FILE already exists"
     exit 1
 fi
 
